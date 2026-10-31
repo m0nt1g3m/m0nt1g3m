@@ -7,9 +7,9 @@
 <a href="https://t.me/m0nt1g3m_dev"><img src="./TelegramLogo.svg"></a>
 </div>
 
-### 👋 Hi, I`m Pavel (m0nt1g3m). 🧑‍💻 Backend developer with one year of experience building high-load systems and innovative web solutions in Go. Previously, I worked with C++. 🛠 Specializing in API development, database design, and system architecture.
-
-### Passionate about clean code, 🚀 performance optimization, and learning new technologies. I enjoy solving complex problems and creating reliable backend systems that can handle real-world loads.
+### 👋 Hi, I'm Pavel (m0nt1g3m). 🧑‍💻 Backend developer focused on Go, with one year of hands-on experience building web services and APIs. 
+### 🛠 I work with REST and gRPC, and I specialize in API development, database design, and system architecture. 
+### 🚀 I write clean, maintainable code and pay attention to performance and reliability. Always learning, always looking for better ways to build backend systems.
 <div align="center">
   
 ## 💻 My Tech Stack:
