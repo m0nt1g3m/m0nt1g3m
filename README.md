@@ -14,6 +14,6 @@
   
 ## 💻 My Tech Stack:
 
-[![cmake](https://skillicons.dev/icons?i=go,cpp,py,cmake,fastapi,postgres,mongodb,sqlite,redis,nginx,postman,git,docker,kubernetes,rabbitmq,linux&perline=8)](https://skillicons.dev)
+[![cmake](https://skillicons.dev/icons?i=go,git,postgres,redis,nginx,rabbitmq,kafka,docker,kubernetes,mongodb,sqlite,postman,grafana,prometheus,aws,linux&perline=8)](https://skillicons.dev)
 
 </div>
