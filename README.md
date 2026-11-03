@@ -5,7 +5,7 @@
   
 ## 💻 My Tech Stack
 
-[![cmake](https://skillicons.dev/icons?i=go,git,cpp,c,postgres,redis,nginx,rabbitmq,kafka,docker,kubernetes,mongodb,sqlite,postman,grafana,aws&perline=8)](https://skillicons.dev)
+[![cmake](https://skillicons.dev/icons?i=go,git,cpp,c,postgres,redis,nginx,rabbitmq,kafka,docker,kubernetes,postman,grafana,prometheus,aws,linux&perline=8)](https://skillicons.dev)
 
 </div>
 
